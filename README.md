@@ -1,2 +1,1 @@
-# Hello-world-
-Tech
+#WEEK 1 HOMEWORK ASSIGNMENT - Twitter Sentiment Analysis
